@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!
 ---
-Hola Axel, te amo
+_Hola Axel, **te amo**_
 Utilliza la flecha izquierda para volver!
